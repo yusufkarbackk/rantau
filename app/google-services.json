@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735529776934",
+    "project_id": "rantau-707fd",
+    "storage_bucket": "rantau-707fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735529776934:android:fefefd82b2dc67e90773e7",
+        "android_client_info": {
+          "package_name": "com.example.rantau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735529776934-5uvelojdnbimpnumj63tcn6p7lqanusu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo1Mb-Sw86UaOYjTTk0KDJIhCBd9EYkiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735529776934-5uvelojdnbimpnumj63tcn6p7lqanusu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
